@@ -14,6 +14,8 @@ Validation: Built-in form validation with error messages displayed for invalid f
 Installation
 
 Clone this repository
+
 Install the project dependencies
+
 Serve the application : ng s --o
 
